@@ -1,0 +1,8 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tjsglion/study.git",
+  "author": "tangjiang <465264938@qq.com>",
+  "license": "MIT"
+}
